@@ -12,9 +12,9 @@ body {
 
 body {
 	--blockquote-style: normal;
-	--blockquote-color: var(--text-muted);
-	--blockquote-border-thickness: 1px;
-	--blockquote-border-color: var(--quote-opening-modifier);
+	--blockquote-color: #3EB4BF;
+	--blockquote-border-thickness: 2px;
+	--blockquote-border-color: #3D74F6;
 	--embed-block-shadow-hover: none;
 	--font-ui-smaller: 11px;
 	--normal-weight: 400;
