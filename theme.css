@@ -67,7 +67,7 @@ body {
 	--image-muted: 0.7;
 	--image-radius: 4px;
 	--heading-spacing: 2em;
-	--p-spacing: 1.75rem;
+	--p-spacing: 0.5em;
 	--border-width: 1px;
 	--table-border-width: var(--border-width);
 	--table-selection: var(--text-selection);
